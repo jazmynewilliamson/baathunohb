@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shaenohki.magicforeveryone.co.uk/sitemap.xml
